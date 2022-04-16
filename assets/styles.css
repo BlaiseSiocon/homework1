@@ -39,6 +39,7 @@ header section ul {
 header section ul li {
     display: inline-block;
     margin-left: 25px;
+    text-align: right;
 }
 
 a {
